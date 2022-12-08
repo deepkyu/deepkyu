@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepkyu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCZF23gx3j-8KvahXcSdzZaA) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:song@deepkyu.me) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepkyu/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deep.kyu/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/deepkyu_song)
 
-And my [Hugging Face Spaces 🤗](https://huggingface.co/spaces/CVPR/ml-talking-face)
+[![Hugging Face Spaces 🤗](https://huggingface.co/front/assets/huggingface_logo.svg)](https://huggingface.co/deepkyu)
 
 <!--
 **deepkyu/deepkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

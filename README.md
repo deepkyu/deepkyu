@@ -34,8 +34,11 @@
 
 ### Answers for questions about `ml-talking-face`
 
-<!--
-**deepkyu/deepkyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**2023. 02. 06.**
+In last year, I got so many questions about [Hugging Face Demo `ml-talking-face`](https://huggingface.co/spaces/CVPR/ml-talking-face) and paper through Hugging Face Spaces, Youtube, GitHub, and LinkedIn. 
+Today, I updated the answers for frequently asked questions at our [model card](https://huggingface.co/deepkyu/ml-talking-face). 
+It will be also updated at [`ml-talking-face` github repository](https://github.com/deepkyu/ml-talking-face). 
+I hope this help with your journey in talking face generation and multilingual TTS research.
 
 <br/>
 

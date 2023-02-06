@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
     </a>
     <a href="https://huggingface.co/deepkyu">
-    <img src="./static/huggingface_unofficial.png">
+    <img src="./static/huggingface_unofficial.svg" height=28>
     </a>
 </p>
 

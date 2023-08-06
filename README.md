@@ -32,7 +32,7 @@
 
 ## News
 
-### The research for efficient stable diffusion model is released!
+### The research for efficient stable diffusion, `BK-SDM`, is released!
 
 **2023. 07. 19.**
 I participated in stable diffusion model compression research in [Nota AI](https://www.nota.ai/), and published the paper, the model named [BK-SDM](https://arxiv.org/abs/2305.15798), with our teammates.

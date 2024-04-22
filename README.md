@@ -33,24 +33,3 @@
 </p>
 
 <br/>
-
-## News
-
-### `ml-talking-face` demo is restored!
-
-**2023. 12. 17.**
-Our ml-talking-face demonstration has been restorted. Now, I'm using A10G instance from lambdalabs with my own expense...🫠 I'll keep you posted on the status.
-
-- [Hugging Face Demo `ml-talking-face`](https://huggingface.co/spaces/CVPR/ml-talking-face)
-- [FAQ at Hugging Face model card](https://huggingface.co/deepkyu/ml-talking-face)
-- [Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&citation_for_view=KR4U5YMAAAAJ:9yKSN-GCB0IC)
-
-
-### The research for efficient stable diffusion, `BK-SDM`, is released!
-
-**2023. 07. 19.**
-I participated in stable diffusion model compression research in [Nota AI](https://www.nota.ai/), and published the paper, the model named [BK-SDM](https://arxiv.org/abs/2305.15798), with our teammates.
-We compressed a conditional U-Net in stable diffusion with knowledge distillation method and found that the compressed model can sustain the original performance while finetuning with tiny dataset.
-Please check our [code](https://github.com/Nota-NetsPresso/BK-SDM) and [other related work](https://huggingface.co/blog/sd_distillation) introduced by [Segmind](https://github.com/segmind/distill-sd).
-
-<br/>
